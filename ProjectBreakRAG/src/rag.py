@@ -1,13 +1,28 @@
 import time
-from src.logging_utils import guardar_log
 
+from src.logging_utils import guardar_log
 from src.generate import obtener_llm
 from src.retriever import obtener_retriever
+from config import TOP_K, MAX_CHUNKS
 
-def responder(pregunta, k=3):
+
+def responder(pregunta, k=TOP_K):
+    """
+    Realiza una consulta RAG y devuelve la respuesta,
+    las fuentes y los chunks recuperados.
+    """
+    if not pregunta or not pregunta.strip():
+        raise ValueError("La pregunta no puede estar vacía")
+
     inicio = time.perf_counter()
+
     retriever = obtener_retriever(k=k)
-    documentos = retriever.invoke(pregunta)    
+
+    documentos = retriever.invoke(pregunta)
+
+    # Limitamos los chunks que se envían al modelo.
+    documentos = documentos[:MAX_CHUNKS]
+
     contexto = "\n\n---\n\n".join(
         doc.page_content for doc in documentos
     )
@@ -16,6 +31,7 @@ def responder(pregunta, k=3):
 Responde únicamente utilizando el contexto proporcionado.
 
 Si la información no aparece en el contexto responde exactamente:
+
 "No está en los documentos."
 
 --- CONTEXTO ---
@@ -30,7 +46,6 @@ Si la información no aparece en el contexto responde exactamente:
     llm = obtener_llm()
     respuesta = llm.invoke(prompt)
 
-    # Extraer solo el texto de la respuesta de Gemini
     if isinstance(respuesta.content, list):
         texto = "".join(
             bloque["text"]
@@ -44,7 +59,7 @@ Si la información no aparece en el contexto responde exactamente:
 
     guardar_log(
         pregunta=pregunta,
-        k=k,
+        k=min(k, MAX_CHUNKS),
         chunks=len(documentos),
         modelo="gemini-3.6-flash",
         tiempo=tiempo

@@ -5,6 +5,7 @@ from src.chunk import crear_chunks
 from src.index import crear_indice
 from src.rag import responder
 from src.retriever import obtener_retriever
+from src.config import TOP_K
 
 
 def indexar():
@@ -86,7 +87,7 @@ def main():
     parser.add_argument(
         "--k",
         type=int,
-        default=5,
+        default=TOP_K,
         help="Número de chunks a recuperar"
     )
 

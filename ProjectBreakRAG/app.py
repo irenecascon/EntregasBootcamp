@@ -18,7 +18,7 @@ st.write(
 k = st.sidebar.slider(
     "Top K",
     1,
-    10,
+    5,
     3
 )
 
