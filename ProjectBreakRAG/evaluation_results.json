@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué requisitos deben cumplir las personas beneficiarias de las becas?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 115,
+        "score": 0.7973,
+        "chunk": "116\nma finalidad que puedan recibirse de \notras entidades o personas públicas o \nprivadas. En el caso de que las normas \nreguladoras de aquéllos proclamaran su \ncompatibilidad con las becas del Ministe-\nrio de Educación, Formación Profesional \ny Depo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué información aparece sobre la presentación de recursos?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 108,
+        "score": 0.7456,
+        "chunk": "propuesta para su desestimación, se in -\nformará al solicitante de la posibilidad de \nformular alegaciones, así como del plazo \ny órgano ante el que deben presentarse.\nAsimismo, se informará del procedimien-\nto y plazo para que los solicitantes, en \n"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué pueden hacer las comunidades autónomas mediante convenios de colaboración?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 136,
+        "score": 0.6155,
+        "chunk": "137\n3. En los servicios territoriales de las co -\nmunidades autónomas, las tareas especi-\nficadas en el párrafo anterior se realizarán \npor los órganos que la comunidad autó -\nnoma determine, al que se incorporará el \ndirector del área funcional de a"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué obligaciones tienen las personas beneficiarias?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 115,
+        "score": 0.8527,
+        "chunk": "116\nma finalidad que puedan recibirse de \notras entidades o personas públicas o \nprivadas. En el caso de que las normas \nreguladoras de aquéllos proclamaran su \ncompatibilidad con las becas del Ministe-\nrio de Educación, Formación Profesional \ny Depo"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cómo se realiza el pago de las becas?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 115,
+        "score": 0.7023,
+        "chunk": "116\nma finalidad que puedan recibirse de \notras entidades o personas públicas o \nprivadas. En el caso de que las normas \nreguladoras de aquéllos proclamaran su \ncompatibilidad con las becas del Ministe-\nrio de Educación, Formación Profesional \ny Depo"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué ocurre si se incumplen los requisitos de la beca?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 99,
+        "score": 0.8448,
+        "chunk": "y superación de asignaturas o de cré-\nditos. \nb) Acreditar ante la entidad concedente \nel cumplimiento de los requisitos y \ncondiciones que determinen la con -\ncesión o disfrute de la beca. \nc) Someterse a las actuaciones de com -\nprobación precisas "
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué documentación puede solicitar la administración?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 105,
+        "score": 0.5492,
+        "chunk": "que el solicitante exponga y acredite do-\ncumentalmente tanto la realidad de los \nhechos causantes de la situación como \nlas características de la misma. \n3. Además de por el procedimiento pre -\nvisto en el artículo anterior, podrán pre -\nsentarse la"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cómo se pueden presentar las solicitudes?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\convocatoria_BOE.pdf",
+        "page": 1,
+        "score": 0.7888,
+        "chunk": "efectos. No serán tenidas en cuenta aquellas solicitudes cumplimentadas por vía\ntelemática que no completen el proceso de presentación establecido, obteniendo el\nresguardo de solicitud que deberá ser conservado por el solicitante para acreditar,\nen c"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué plazo existe para presentar recursos?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 108,
+        "score": 0.8989,
+        "chunk": "propuesta para su desestimación, se in -\nformará al solicitante de la posibilidad de \nformular alegaciones, así como del plazo \ny órgano ante el que deben presentarse.\nAsimismo, se informará del procedimien-\nto y plazo para que los solicitantes, en \n"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuándo se inauguró el Museo del Prado?",
+    "k": 1,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 106,
+        "score": 0.924,
+        "chunk": "privado concertado, elegidos entre \naquellos que forman parte de los \nconsejos escolares; tres representan -\ntes de las organizaciones estudiantiles \nque sean mayores de dieciséis años. \nd) Secretario: el funcionario encargado \nde la gestión de becas"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "pregunta": "¿Qué requisitos deben cumplir las personas beneficiarias de las becas?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 115,
+        "score": 0.7973,
+        "chunk": "116\nma finalidad que puedan recibirse de \notras entidades o personas públicas o \nprivadas. En el caso de que las normas \nreguladoras de aquéllos proclamaran su \ncompatibilidad con las becas del Ministe-\nrio de Educación, Formación Profesional \ny Depo"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 102,
+        "score": 0.8169,
+        "chunk": "ficativos que se requieran de los becarios \nincursos en cualquiera de las situaciones \na que se refiere el punto anterior. \nArtículo 44. Verificación de becas \nconcedidas. \n1. Terminado el proceso de adjudicación \nde las becas, las administraciones e"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 99,
+        "score": 0.846,
+        "chunk": "y superación de asignaturas o de cré-\nditos. \nb) Acreditar ante la entidad concedente \nel cumplimiento de los requisitos y \ncondiciones que determinen la con -\ncesión o disfrute de la beca. \nc) Someterse a las actuaciones de com -\nprobación precisas "
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué información aparece sobre la presentación de recursos?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 108,
+        "score": 0.7456,
+        "chunk": "propuesta para su desestimación, se in -\nformará al solicitante de la posibilidad de \nformular alegaciones, así como del plazo \ny órgano ante el que deben presentarse.\nAsimismo, se informará del procedimien-\nto y plazo para que los solicitantes, en \n"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 141,
+        "score": 0.7821,
+        "chunk": "142\nrequerirse al solicitante la presentación \nde la documentación oportuna.\nArtículo 28. Convenios de \ncolaboración\nMediante los oportunos convenios de \ncolaboración con el Ministerio de Educa-\nción, Formación Profesional y Deportes y \nen los términ"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 130,
+        "score": 0.7897,
+        "chunk": "o reeducador que preste el servi -\ncio en la que conste información \ndetallada de las características del \nmismo, incluyendo número de \nhoras semanales y especialista \nque lo presta, así como del coste \nmensual. A los efectos de la de -\nterminación d"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué pueden hacer las comunidades autónomas mediante convenios de colaboración?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 136,
+        "score": 0.6155,
+        "chunk": "137\n3. En los servicios territoriales de las co -\nmunidades autónomas, las tareas especi-\nficadas en el párrafo anterior se realizarán \npor los órganos que la comunidad autó -\nnoma determine, al que se incorporará el \ndirector del área funcional de a"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 32,
+        "score": 0.6596,
+        "chunk": "cesaria a estos efectos en un plazo máxi-\nmo de tres meses desde el cierre de cada \nconvocatoria.\nDel mismo modo, la Administración del \nEstado facilitará a las comunidades autó-\nnomas cuantos datos sean precisos para \nlos fines que les son propios. "
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 107,
+        "score": 0.6842,
+        "chunk": "108\n3. En las comunidades autónomas se rea-\nlizará la tarea de examen y selección de \nsolicitudes por el órgano que cada co -\nmunidad autónoma determine y al que \nse incorporará el director del área de la \nalta inspección de educación en la co -\nmuni"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué obligaciones tienen las personas beneficiarias?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 115,
+        "score": 0.8527,
+        "chunk": "116\nma finalidad que puedan recibirse de \notras entidades o personas públicas o \nprivadas. En el caso de que las normas \nreguladoras de aquéllos proclamaran su \ncompatibilidad con las becas del Ministe-\nrio de Educación, Formación Profesional \ny Depo"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 28,
+        "score": 0.8614,
+        "chunk": "misma naturaleza y finalidad, salvo que \nel Ministerio de Educación, Cultura y De-\nporte declare la compatibilidad en casos \nsuficientemente motivados.40\nCAPÍTULO V \nRégimen de las becas y ayudas \nterritorializadas \nArtículo 39. Becas convocadas \ncon"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 80,
+        "score": 0.9026,
+        "chunk": "pareja, registrada o no, o persona unida \npor análoga relación cuyas rentas y pa -\ntrimonio se incluirán dentro del cómputo \nde la renta y patrimonio familiares. Asi -\nmismo, tendrá la consideración de miem-\nbro computable la persona con ingresos \npr"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cómo se realiza el pago de las becas?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 115,
+        "score": 0.7023,
+        "chunk": "116\nma finalidad que puedan recibirse de \notras entidades o personas públicas o \nprivadas. En el caso de que las normas \nreguladoras de aquéllos proclamaran su \ncompatibilidad con las becas del Ministe-\nrio de Educación, Formación Profesional \ny Depo"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 99,
+        "score": 0.8205,
+        "chunk": "y superación de asignaturas o de cré-\nditos. \nb) Acreditar ante la entidad concedente \nel cumplimiento de los requisitos y \ncondiciones que determinen la con -\ncesión o disfrute de la beca. \nc) Someterse a las actuaciones de com -\nprobación precisas "
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 102,
+        "score": 0.8577,
+        "chunk": "103\nel caso de los estudios cursados en \nlas escuelas oficiales de idiomas. \ne) En el caso de estudiantes que hayan \nobtenido la beca para la realización \ndel proyecto fin de estudios, no ha -\nber presentado dicho proyecto en el \nplazo de un año desd"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué ocurre si se incumplen los requisitos de la beca?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 99,
+        "score": 0.8448,
+        "chunk": "y superación de asignaturas o de cré-\nditos. \nb) Acreditar ante la entidad concedente \nel cumplimiento de los requisitos y \ncondiciones que determinen la con -\ncesión o disfrute de la beca. \nc) Someterse a las actuaciones de com -\nprobación precisas "
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 103,
+        "score": 0.8502,
+        "chunk": "104\ndientes y/o las universidades incoarán el \ncorrespondiente expediente de reintegro.  \nEn los casos en los que de la instrucción \ndel expediente y a la vista de las alega -\nciones formuladas por el interesado, se \nconstate la procedencia de la/s b"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 16,
+        "score": 0.8509,
+        "chunk": "17\nellos que no conviva con el solicitante \nde la beca.\nNo obstante, en su caso, tendrá la con -\nsideración de miembro computable y \nsustentador principal, el nuevo cónyuge, \npareja, registrada o no, o persona unida \npor análoga relación cuyas rentas"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué documentación puede solicitar la administración?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 105,
+        "score": 0.5492,
+        "chunk": "que el solicitante exponga y acredite do-\ncumentalmente tanto la realidad de los \nhechos causantes de la situación como \nlas características de la misma. \n3. Además de por el procedimiento pre -\nvisto en el artículo anterior, podrán pre -\nsentarse la"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 117,
+        "score": 0.6558,
+        "chunk": "des técnicas que impidan o dificulten la \ncesión de los datos por parte de las admi-\nnistraciones tributarias, podrá requerirse \nal solicitante de la beca la presentación \ndel certificado resumen de la declaración \nanual del impuesto sobre la renta d"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 141,
+        "score": 0.7013,
+        "chunk": "142\nrequerirse al solicitante la presentación \nde la documentación oportuna.\nArtículo 28. Convenios de \ncolaboración\nMediante los oportunos convenios de \ncolaboración con el Ministerio de Educa-\nción, Formación Profesional y Deportes y \nen los términ"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cómo se pueden presentar las solicitudes?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\convocatoria_BOE.pdf",
+        "page": 1,
+        "score": 0.7888,
+        "chunk": "efectos. No serán tenidas en cuenta aquellas solicitudes cumplimentadas por vía\ntelemática que no completen el proceso de presentación establecido, obteniendo el\nresguardo de solicitud que deberá ser conservado por el solicitante para acreditar,\nen c"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 134,
+        "score": 0.8381,
+        "chunk": "135\nficamente este aspecto de las solicitudes \npresentadas.\nArtículo 10. Lugar y plazo de presen-\ntación de solicitudes\n1. El plazo de presentación de solicitudes \nse extenderá desde el día 30 de abril de \n2025 a las 8,00 hora peninsular hasta el \ndí"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 134,
+        "score": 0.8677,
+        "chunk": "mo correspondiente de la comunidad \nautónoma del domicilio familiar del so -\nlicitante.\n3. Además de por el procedimiento \nprevisto en el artículo anterior, podrán \npresentarse solicitudes en los registros, \noficinas de correos, oficinas consulares \n"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué plazo existe para presentar recursos?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 108,
+        "score": 0.8989,
+        "chunk": "propuesta para su desestimación, se in -\nformará al solicitante de la posibilidad de \nformular alegaciones, así como del plazo \ny órgano ante el que deben presentarse.\nAsimismo, se informará del procedimien-\nto y plazo para que los solicitantes, en \n"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 105,
+        "score": 0.9317,
+        "chunk": "2. Únicamente podrán presentarse soli-\ncitudes de beca después de l plazo se -\nñalado y hasta el 31 de diciembre de \n2025 en caso de fallecimiento del sus -\ntentador principal de la familia, o por \njubilación forzosa del mismo que no \nse produzca por"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 107,
+        "score": 0.9482,
+        "chunk": "108\n3. En las comunidades autónomas se rea-\nlizará la tarea de examen y selección de \nsolicitudes por el órgano que cada co -\nmunidad autónoma determine y al que \nse incorporará el director del área de la \nalta inspección de educación en la co -\nmuni"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuándo se inauguró el Museo del Prado?",
+    "k": 3,
+    "resultados": [
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 106,
+        "score": 0.924,
+        "chunk": "privado concertado, elegidos entre \naquellos que forman parte de los \nconsejos escolares; tres representan -\ntes de las organizaciones estudiantiles \nque sean mayores de dieciséis años. \nd) Secretario: el funcionario encargado \nde la gestión de becas"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 43,
+        "score": 0.9655,
+        "chunk": "tivo español:\na) Bachillerato. \nb) Ciclos de Formación Profesional de \nGrado Medio y de Grado Superior, \nincluidos los estudios de Formación \nProfesional realizados en los centros \ndocentes militares.\nc) Enseñanzas Artísticas Profesionales. \nd) Enseñ"
+      },
+      {
+        "source": "data\\beca_mec\\libro_becas.pdf",
+        "page": 67,
+        "score": 0.9814,
+        "chunk": "las universidades y centros que impartan \nenseñanzas artísticas superiores por los \nprecios públicos por los servicios acadé-\nmicos correspondientes a los estudiantes \nexentos de su pago por ser beneficiarios \nde beca se realizará con cargo al crédit"
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué requisitos deben cumplir las personas beneficiarias de las becas?"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué información aparece sobre la presentación de recursos?"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué pueden hacer las comunidades autónomas mediante convenios de colaboración?"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué obligaciones tienen las personas beneficiarias?"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Cómo se realiza el pago de las becas?"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué ocurre si se incumplen los requisitos de la beca?"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué documentación puede solicitar la administración?"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cómo se pueden presentar las solicitudes?"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué plazo existe para presentar recursos?"
+  },
+  {
+    "id": 10,
+  "pregunta": "¿Cuándo se inauguró el Museo del Prado?"
+  }
+]
